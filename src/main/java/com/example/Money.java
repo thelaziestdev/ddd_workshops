@@ -1,4 +1,4 @@
-package com.example.order;
+package com.example;
 
 import java.math.BigDecimal;
 

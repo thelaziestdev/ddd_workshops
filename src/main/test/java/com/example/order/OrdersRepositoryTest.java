@@ -1,5 +1,6 @@
 package com.example.order;
 
+import com.example.Money;
 import io.quarkus.test.junit.QuarkusTest;
 import jakarta.inject.Inject;
 import jakarta.transaction.Transactional;

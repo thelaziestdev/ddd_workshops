@@ -1,6 +1,6 @@
 package com.example.payment;
 
-import com.example.order.Money;
+import com.example.Money;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

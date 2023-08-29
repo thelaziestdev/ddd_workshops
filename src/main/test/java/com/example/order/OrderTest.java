@@ -1,5 +1,6 @@
 package com.example.order;
 
+import com.example.Money;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

@@ -1,6 +1,6 @@
 package com.example.payment;
 
-import com.example.order.Money;
+import com.example.Money;
 import com.example.order.Order;
 import com.example.order.OrderLine;
 import org.junit.jupiter.api.Assertions;

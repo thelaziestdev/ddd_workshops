@@ -1,6 +1,6 @@
 package com.example.order.tax;
 
-import com.example.order.Money;
+import com.example.Money;
 import com.example.order.Order;
 
 import java.math.BigDecimal;

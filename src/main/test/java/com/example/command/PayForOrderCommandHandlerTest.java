@@ -1,6 +1,6 @@
 package com.example.command;
 
-import com.example.order.Money;
+import com.example.Money;
 import com.example.order.Order;
 import com.example.order.OrderLine;
 import com.example.order.OrdersRepository;

@@ -1,6 +1,6 @@
 package com.example.command;
 
-import com.example.order.Money;
+import com.example.Money;
 import com.example.order.OrdersRepository;
 import com.example.payment.*;
 import io.vertx.core.eventbus.EventBus;

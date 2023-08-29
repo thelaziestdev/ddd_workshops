@@ -1,5 +1,6 @@
 package com.example.order;
 
+import com.example.Money;
 import jakarta.persistence.Embedded;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
